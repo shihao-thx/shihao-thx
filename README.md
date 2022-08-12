@@ -6,7 +6,7 @@
 ![Profile views counter](https://komarev.com/ghpvc/?username=shihao&&style=flat-square)  
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shihao-thx&show_icons=true&hide_border=true&theme=buefy">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shihao-thx&show_icons=true&hide_border=true&theme=flag-india">
 
 ### Glad to see you here!  
 🏫I am a graduate student at Zhejiang University, pursuing a master's degree in engineering. 
@@ -16,7 +16,7 @@ to develop industrial software with C++.💯
 
 ### Rapidfire  
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihao-thx&hide_border=false&layout=compact" style="width: 30%" >
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shihao-thx&hide_border=false&layout=compact&theme=buefy" style="width: 30%" >
 
 - 🔭 I’m currently working on [v6d](https://github.com/v6d-io/v6d).  
   
