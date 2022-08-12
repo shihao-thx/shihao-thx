@@ -2,11 +2,14 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/shihao-thx)](https://github.com/shihao-thx)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shihao@zju.edu.cn)](mailto:shihao@zju.edu.cn)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=Leetcode&logoColor=white)](https://leetcode.cn/)
+![Profile views counter](https://komarev.com/ghpvc/?username=shihao-thx&&style=flat-square)  
+
+<!---
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-yellow?style=flat-square&logo=Leetcode&logoColor=white&link=https://leetcode.cn/u/i3lissful-6alileogoh/)](https://leetcode.cn/u/i3lissful-6alileogoh/)
-![Profile views counter](https://komarev.com/ghpvc/?username=shihao&&style=flat-square)  
+--->
 
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shihao-thx&show_icons=true&hide_border=true&theme=flag-india">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shihao-thx&show_icons=true&hide_border=true&theme=buefy">
 
 ### Glad to see you here!  
 🏫I am a graduate student at Zhejiang University, pursuing a master's degree in engineering. 
@@ -39,7 +42,7 @@ to develop industrial software with C++.💯
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
 </div>  
 
-### Contact with me:email:
+### Contact with me[:email:](mailto:shihao@zju.edu.cn)
 <img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />
 <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
 <img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />
