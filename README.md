@@ -27,7 +27,7 @@ to develop industrial software with C++.💯
 - 🌱 I’m currently learning redis and distributed storage.  
   
 
-- ⚡ I'm interested in using computer technologies to solve problems in real world.  
+- ⚡ I'm interested in using computer technologies to solve problems in the real world.  
 
 ### Languages and Tools🛠
 <div align="left">  
